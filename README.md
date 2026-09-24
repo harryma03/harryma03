@@ -71,9 +71,4 @@
 </p>
 
 
-
-<br>
-
-🔗 https://github.com/harryma03
-
 </p>
