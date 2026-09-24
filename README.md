@@ -1,38 +1,138 @@
-# 马浩锐
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Harry%20Ma&fontSize=70&fontColor=ffffff"/>
+</p>
 
-**控制工程硕士生 | 轮足机器人强化学习运动控制**
 
-📍 深圳  
-📧 Harry_MA03@163.com  
-🔗 GitHub: github.com/harryma03  
+<h1 align="center">
+Hi, I'm Harry Ma 👋
+</h1>
+
+
+<h3 align="center">
+Control Engineering Graduate Student | Wheeled-Legged Robot RL
+</h3>
+
+
+<p align="center">
+
+🦿 Robot Locomotion  
+&nbsp; • &nbsp;
+🤖 Reinforcement Learning  
+&nbsp; • &nbsp;
+🌎 Sim2Real  
+&nbsp; • &nbsp;
+Embodied AI
+
+</p>
+
+
+<p align="center">
+
+📍 Shenzhen, China  
+<br>
+📧 Harry_MA03@163.com
+
+</p>
+
 
 ---
-## 关于我
 
-- 我是马浩锐，深圳大学控制工程硕士研究生，研究方向为**轮足机器人强化学习运动控制**。目前主要关注四轮足机器人在复杂地形、高障碍通过、视觉感知输入和实机部署中的强化学习控制问题。
-- 第二十二、二十三届ABU ROBOCON参赛者
+## 👨‍💻 About Me
+
+
+I am a Master's student in Control Engineering at Shenzhen University,
+focusing on reinforcement learning based control for wheeled-legged robots.
+
+
+My research interests include:
+
+- Wheeled-legged robot locomotion
+- Reinforcement learning control
+- Sim2Real transfer
+- Vision and proprioceptive perception
+- Real-world robot deployment
+
 
 ---
-## 研究方向
 
-- 四轮足机器人强化学习运动控制
-- 轮足机器人 Sim2Real / Sim2Sim 部署
-- 本体感知与视觉感知策略训练
-- 复杂地形通过与导航避障
+## 🔬 Research
+
+
+- 🦿 RL-based locomotion for wheeled-legged robots
+- 🧠 World model and recurrent policy
+- 👁️ Terrain perception and embodied intelligence
+- 🤖 Robot learning and deployment
+
 
 ---
 
-## 技术栈
-
-- **强化学习：** NP3O, PPO, Isaac Gym, PyTorch
-- **仿真与部署：** MuJoCo, mujoco_deploy, TensorRT, ONNX
-- **机器人系统：** ROS2, C++, Python, FSM
-- **嵌入式与控制：** STM32, FreeRTOS, CAN, UART, PID
+## 🛠 Tech Stack
 
 
-## 联系方式
+### Robotics
 
-- 邮箱：Harry_MA03@163.com
-- GitHub：github.com/harryma03
+<p>
+
+<img src="https://img.shields.io/badge/C++-black"/>
+<img src="https://img.shields.io/badge/Python-blue"/>
+<img src="https://img.shields.io/badge/ROS2-blue"/>
+<img src="https://img.shields.io/badge/Linux-orange"/>
+
+</p>
 
 
+### Reinforcement Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/PyTorch-red"/>
+<img src="https://img.shields.io/badge/PPO-green"/>
+<img src="https://img.shields.io/badge/Isaac%20Gym-purple"/>
+<img src="https://img.shields.io/badge/MuJoCo-gray"/>
+
+</p>
+
+
+### Deployment
+
+- TensorRT
+- ONNX
+- Docker
+- Real Robot Deployment
+
+
+---
+
+## 📊 GitHub Statistics
+
+
+<p align="center">
+
+<img height="160"
+src="https://github-readme-stats.vercel.app/api?username=harryma03&show_icons=true&theme=tokyonight"/>
+
+
+<img height="160"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryma03&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+## 🔥 Contribution Activity
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harryma03&theme=tokyo-night"/>
+
+</p>
+
+
+---
+
+## 📫 Contact
+
+
+Email:
