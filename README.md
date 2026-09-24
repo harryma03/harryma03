@@ -1,11 +1,25 @@
+<!-- Header -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Harry%20Ma&fontSize=70&fontColor=ffffff"/>
+</p>
+
+
 <h1 align="center">
-马浩锐
+  马浩锐
 </h1>
 
 
 <h3 align="center">
-Wheeled-Legged Robot Reinforcement Learning
+  Wheeled-Legged Robot Reinforcement Learning
 </h3>
+
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Robot+Locomotion;Sim2Real+Robot+Learning;Embodied+AI+Research"/>
+
+</p>
 
 
 <p align="center">
@@ -16,15 +30,17 @@ Wheeled-Legged Robot Reinforcement Learning
 &nbsp; | &nbsp;
 🌎 Sim2Real  
 &nbsp; | &nbsp;
-Embodied AI
+🧠 Robot Learning
 
 </p>
 
 
 <p align="center">
 
-第二十二、二十三届 ABU ROBOCON 参赛者  
+第二十二、二十三届 ABU ROBOCON 参赛者
+
 <br>
+
 SZTU 1034 Robotics 第一、二届队长
 
 </p>
@@ -36,7 +52,7 @@ SZTU 1034 Robotics 第一、二届队长
 
 <br>
 
-🔗 github.com/harryma03
+🔗 https://github.com/harryma03
 
 </p>
 
@@ -46,54 +62,21 @@ SZTU 1034 Robotics 第一、二届队长
 ## 🔬 Research
 
 
-Master Student in Control Engineering at Shenzhen University.
+I am a Master's student in Control Engineering at Shenzhen University.
 
 
-Research interests:
-
-- Wheeled-legged robot reinforcement learning
-- Terrain-aware locomotion policy
-- Sim2Real robot deployment
-- Robot learning and embodied intelligence
+My research focuses on reinforcement learning based control for wheeled-legged robots.
 
 
----
+Current interests:
 
-## 📊 GitHub Statistics
-
-
-<p align="center">
-
-
-<img height="160"
-src="https://github-readme-stats.vercel.app/api?username=harryma03&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-
-
-<img height="160"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryma03&layout=compact&theme=tokyonight"/>
-
-
-</p>
-
-
----
-
-## 🔥 Contribution
-
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harryma03&theme=tokyo-night"/>
-
-</p>
-
-
----
-
-## 🚀 Currently Working On
-
-
-- 🦿 Reinforcement learning for wheeled-legged robots
-- 🧠 Recurrent world models for terrain perception
+- 🦿 RL-based locomotion for wheeled-legged robots
+- 🧠 Recurrent world models and terrain memory
+- 🌎 Sim2Real transfer
 - 🤖 Real robot deployment
+
+
+---
+
+## 🚀 Research Keywords
 
