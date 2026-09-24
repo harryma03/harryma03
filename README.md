@@ -97,10 +97,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryma03&la
 - 🧠 Recurrent world models for terrain perception
 - 🤖 Real robot deployment
 
-
----
-
-## 📫 Contact
-
-
-📧 Harry_MA03@163.com
