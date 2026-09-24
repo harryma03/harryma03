@@ -1,9 +1,4 @@
 
-<h1 align="center">
-Harry Ma
-</h1>
-
-
 <h3 align="center">
 Wheeled-Legged Robot Reinforcement Learning
 </h3>
