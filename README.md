@@ -52,27 +52,6 @@ Wheeled-Legged Robot Reinforcement Learning
 </p>
 
 
----
-
-## 📈 GitHub
-
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=harryma03&style=flat-square&color=blue"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/github/stars/harryma03?style=flat-square"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/github/followers/harryma03?style=flat-square"/>
-
-</p>
-
-
----
 
 ## 📫 Contact
 
