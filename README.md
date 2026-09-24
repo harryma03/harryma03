@@ -130,9 +130,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryma03&la
 </p>
 
 
----
-
-## 📫 Contact
-
-
-Email:
