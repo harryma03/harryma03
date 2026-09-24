@@ -72,13 +72,6 @@
 
 
 
-## 📫 Contact
-
-
-<p align="center">
-
-📧 Harry_MA03@163.com
-
 <br>
 
 🔗 https://github.com/harryma03
