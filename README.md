@@ -1,5 +1,3 @@
-<!-- Header Animation -->
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Harry%20Ma&fontSize=70&fontColor=ffffff"/>
 </p>
@@ -24,11 +22,11 @@ Wheeled-Legged Robot Reinforcement Learning
 
 <p align="center">
 
-🦿 Robot Locomotion  
+🦿 Robot Locomotion
 &nbsp; | &nbsp;
-🤖 Reinforcement Learning  
+🤖 Reinforcement Learning
 &nbsp; | &nbsp;
-🌎 Sim2Real  
+🌎 Sim2Real
 &nbsp; | &nbsp;
 🧠 Robot Learning
 
@@ -56,31 +54,20 @@ Wheeled-Legged Robot Reinforcement Learning
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub
 
 
 <p align="center">
 
+<img src="https://komarev.com/ghpvc/?username=harryma03&style=flat-square&color=blue"/>
 
-<img height="160"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harryma03&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+&nbsp;
 
+<img src="https://img.shields.io/github/stars/harryma03?style=flat-square"/>
 
-<img height="160"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harryma03&layout=compact&theme=tokyonight"/>
+&nbsp;
 
-
-</p>
-
-
----
-
-## 🔥 Contribution Activity
-
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harryma03&theme=tokyo-night"/>
+<img src="https://img.shields.io/github/followers/harryma03?style=flat-square"/>
 
 </p>
 
